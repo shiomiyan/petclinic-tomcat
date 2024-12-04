@@ -1,5 +1,3 @@
-spring4shell
-
 ```
-git clone --depth 1 --branch v5.3.13 https://github.com/spring-petclinic/spring-framework-petclinic.git
+docker build . -t petclinic-tomcat && docker run -it --rm -p 8080:8080 petclinic-tomcat
 ```
