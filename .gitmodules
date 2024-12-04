@@ -1,0 +1,3 @@
+[submodule "spring-framework-petclinic"]
+	path = spring-framework-petclinic
+	url = https://github.com/spring-petclinic/spring-framework-petclinic.git
